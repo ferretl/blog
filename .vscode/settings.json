@@ -1,0 +1,19 @@
+{
+    "grammarly.selectors": [
+        {
+            "language": "markdown",
+            "scheme": "file",
+            "pattern": "content/posts/Ukkonens.md"
+        },
+        {
+            "language": "markdown",
+            "scheme": "file",
+            "pattern": "content/post/Ukkonens.md"
+        },
+        {
+            "language": "markdown",
+            "scheme": "file",
+            "pattern": "content/post/Ukkonens/index.md"
+        }
+    ]
+}
